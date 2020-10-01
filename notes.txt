@@ -1,0 +1,21 @@
+https://codecollab.io/@proj/CreditChannelBasket
+1. Create the board and Shuffle the board into a valid starting position
+[1...15 + none]
+
+[[1,2,3,4], [5,6,7,8]]
+
+
+2. Move tile function input(board, WASD(one of)) output(board)
+
+
+3. Validate user Move input(board, WASD(one of)) output(boolean)
+
+
+4. Check win condition input(board) output(boolean)
+
+
+5. Print board output (board)
+
+
+User moves: WASD
+
